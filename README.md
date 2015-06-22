@@ -1,6 +1,10 @@
 # Chef Intermediate
 
-This is the Chef Intermediate Windows presentation.
+This is where development of the Chef Intermediate materials takes place.
+
+## Releases
+
+If you are interested in the releases of the content. Please visit the Releases folder of the [Chef Intermediate](https://drive.google.com/folderview?id=0B1nt6eQeCbyRT3JGb0w3bGxmQVE&usp=sharing&usp=sharing).
 
 ## Reviewing & Feedback
 
