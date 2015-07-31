@@ -1,4 +1,6 @@
 # Chef Intermediate
+The latest version of these materials are published to: https://drive.google.com/a/chef.io/folderview?id=0B1nt6eQeCbyRfnlMU3J1V2FvcFJZRFFjZUJJczRWdXM5ZVlUbWN6el9BSzROVjRwenVvQzA&usp=sharing&tid=0BxSqvX6gSnKCSFpvUHI3Xzl0alE#list
+Instructors can download the latest zip file form that location.
 
 This is the Chef Intermediate Windows presentation.
 
