@@ -9,9 +9,9 @@
 * Rubocop
 * Introduction to ChefSpec
 
-## Workstation Setup
+## Node Setup
 
-This workstation is currently being managed as a Amazon Machine Instance (AMI). This AMI is managed by Chef through the Training AWS Account.
+This node is currently being managed as a Amazon Machine Instance (AMI). This AMI is managed by Chef through the Training AWS Account.
 
 * CentOS 6.7 chef-essentials-4.0.0 (ami-11410d74)
 
